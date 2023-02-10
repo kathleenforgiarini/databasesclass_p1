@@ -1,0 +1,18 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYDAYHH:MI:SS')                                                                 
+----------------------------------------------------------------------------------------------------------
+13 Janeiro   2023 Sexta-Feira   03:06:36
+
+
+Procedure L1Q1 compilado
+
+The tripe of 2 is 6 . 
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+The tripe of 3 is 9 . 
+
+
+Procedimento PL/SQL concluído com sucesso.
+

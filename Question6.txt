@@ -1,0 +1,23 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYDAYHH:MI:SS')                                                                 
+----------------------------------------------------------------------------------------------------------
+13 Janeiro   2023 Sexta-Feira   03:59:53
+
+
+Function FUNCTION_CTOF compilado
+
+32 degree in °C is equivalent to 89,6 in °F
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+15 degree in °C is equivalent to 59 in °F
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+3 degree in °C is equivalent to 37,4 in °F
+
+
+Procedimento PL/SQL concluído com sucesso.
+

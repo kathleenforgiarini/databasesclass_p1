@@ -1,0 +1,13 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYDAYHH:MI:SS')                                                                 
+----------------------------------------------------------------------------------------------------------
+13 Janeiro   2023 Sexta-Feira   03:37:36
+
+
+Procedure L1Q4 compilado
+
+For the price of $100 You will have to pay $5 GST, $9,98 QST for a total of $14,98. The GRAND TOTAL is $114,98
+
+
+Procedimento PL/SQL concluído com sucesso.
+

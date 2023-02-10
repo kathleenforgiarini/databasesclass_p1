@@ -1,0 +1,13 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYDAYHH:MI:SS')                                                                 
+----------------------------------------------------------------------------------------------------------
+13 Janeiro   2023 Sexta-Feira   03:42:52
+
+
+Procedure L1Q5 compilado
+
+The area of a 2 by 3 rectangle is 6. Its perimeter is 10
+
+
+Procedimento PL/SQL concluído com sucesso.
+

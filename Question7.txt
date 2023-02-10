@@ -1,0 +1,23 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYDAYHH:MI:SS')                                                                 
+----------------------------------------------------------------------------------------------------------
+13 Janeiro   2023 Sexta-Feira   04:09:46
+
+
+Function FUNCTION_FTOC compilado
+
+89 degree in °F is equivalent to 31,66666666666666666666666666666666666667 in °C
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+59 degree in °F is equivalent to 15 in °C
+
+
+Procedimento PL/SQL concluído com sucesso.
+
+37 degree in °F is equivalent to 2,77777777777777777777777777777777777778 in °C
+
+
+Procedimento PL/SQL concluído com sucesso.
+
